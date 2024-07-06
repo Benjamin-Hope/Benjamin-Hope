@@ -28,22 +28,14 @@ Over the years i had the change to work on a couple of projects outside my speci
 
 ## Other Information that might interest you :)
 
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on... I cant tell you, super secret mission.
 
 🧠 I'm currently learning
 
-[![JAva](https://skillicons.dev/icons?i=java)](https://skillicons.dev) - Java
+[![JAva](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
+- Java
+
+🤔 I'm looking for help with becomming the best engineer ever ;)
 
 
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...  
 
